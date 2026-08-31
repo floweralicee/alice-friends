@@ -1,3 +1,5 @@
+
+
 # alicestack
 
 **This is THE SKILL that is here to kill your imposter syndrome and torture yourself into greatness.**
@@ -43,7 +45,7 @@ Both skills share the same memory. `truth-teller` reads your wins history. `impo
 |-----------|-----------|-------------|
 | "I haven't done anything" / defeated tone / dismissing yourself | Imposter-syndrome killer | Pulls last 7 days of wins from timeline. Shows evidence before any feedback. Names what you did that you couldn't do before. |
 | Same pattern appearing again | Truth teller | Names the loop. Connects it to what's been quiet. |
-| Sparse wins + Villager active | Both | Truth teller names the connection. Imposter-syndrome killer finds any wins that were there anyway. |
+| Area quiet 5+ days + Villager active | Both | Truth teller names the connection. Imposter-syndrome killer finds any wins that were there anyway. |
 | You ask for real pushback | Truth teller | Full pattern audit. No softening. |
 | You say you're struggling | Imposter-syndrome killer | Leads with what you've done. Holds the hard truth for later. |
 
